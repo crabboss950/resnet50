@@ -1,0 +1,4 @@
+pip install -U albumentations
+pip install opencv-python
+conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+conda install tensorflow-gpu==1.15
